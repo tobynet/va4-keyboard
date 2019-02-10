@@ -16,20 +16,20 @@
 
 ## Features
 
-* Support `Cherry MX Compatible Switch` and `Kailh Low Profile Choc Switch`
+* ⌨️ Support `Cherry MX Compatible Switch` and `Kailh Low Profile Choc Switch`
 
   ![photo(v0.2.0)](./images/va4-v0_2_0-04.jpg)
 
-* Support `Pro Micro` compatible board
+* 🖥️ Support `Pro Micro` compatible board
 
   ![photo(v0.3.0)](./images/va4-v0_3_0-02.jpg)
 
-* Password writing space
+* 🔑 Password writing space
 
   ![photo(v0.2.0)](./images/va4-v0_2_0-07.jpg)
 
-* Columbus' egg included
+* 🥚 Columbus' egg included
 
   ![photo(v0.2.0)](./images/va4-v0_2_0-08.jpg)
 
-* Open Source License
+* 📜 Open Source License
